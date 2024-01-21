@@ -4,11 +4,13 @@ Yiqun Lin, Zhongjin Luo, Wei Zhao, Xiaomeng Li, "Learning Deep Intensity Field f
 ## 0. Citation
 
 ```
-@article{lin2023learning,
-  title={Learning Deep Intensity Field for Extremely Sparse-View CBCT Reconstruction},
-  author={Lin, Yiqun and Luo, Zhongjin and Zhao, Wei and Li, Xiaomeng},
-  journal={arXiv preprint arXiv:2303.06681},
-  year={2023}
+@inproceedings{lin2023learning,
+  title="Learning Deep Intensity Field for Extremely Sparse-View CBCT Reconstruction",
+  author="Lin, Yiqun and Luo, Zhongjin and Zhao, Wei and Li, Xiaomeng",
+  booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2023",
+  pages="13--23",
+  year="2023",
+  publisher="Springer Nature Switzerland"
 }
 ```
 
